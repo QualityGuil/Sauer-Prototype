@@ -10,6 +10,9 @@
 /* Importando o estilo banner */
 @import url(./styles/banner.css);
 
+/* Importando o estilo colecoes */
+@import url(./styles/colecoes.css);
+
 body {
     font-family: var(--main-font);
 }

@@ -3,6 +3,10 @@ header {
     gap: 50px;
     padding: 59px 60px;
     flex-wrap: wrap;
+    position: sticky;
+    top: 0; /* Isso é o mais importante! */
+    z-index: 1000; /* Opcional: Garante que o header fique na frente de outros elementos */
+    background-color: white;
 }
 
 nav {
