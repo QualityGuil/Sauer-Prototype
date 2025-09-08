@@ -17,6 +17,10 @@ body {
     font-family: var(--main-font);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
 
     --main-font: "Montserrat", sans-serif;
