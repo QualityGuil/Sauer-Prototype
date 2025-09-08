@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    gap: 50px;
+    padding: 60px;
+    flex-wrap: wrap;
+}
+
+header nav ul {
+    display: flex;
+    gap: 50px;
+    /* justify-content: space-between; */
+    align-items: center;
+    /* border: 1px solid red; */
+    flex-wrap: wrap;
+}
+
+header nav ul li a {
+    color: var(--gray);
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    transition: all ease 0.5s;
+    display: inline-block;
+}
+
+header nav ul li a:hover {
+    transform: scale(1.1);
+}
+
+nav {
+    align-content: center;
+}
