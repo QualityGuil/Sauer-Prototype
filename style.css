@@ -7,6 +7,9 @@
 /* Importando o estilo header */
 @import url(./styles/header.css);
 
+/* Importando o estilo banner */
+@import url(./styles/banner.css);
+
 body {
     font-family: var(--main-font);
 }
