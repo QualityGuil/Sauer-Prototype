@@ -1,0 +1,38 @@
+header {
+    display: flex;
+    gap: 50px;
+    padding: 59px 60px;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 0; /* Isso é o mais importante! */
+    z-index: 1000; /* Opcional: Garante que o header fique na frente de outros elementos */
+    background-color: white;
+}
+
+nav {
+    align-content: center;
+}
+
+header nav ul {
+    display: flex;
+    gap: 50px;
+    /* justify-content: space-between; */
+    align-items: center;
+    /* border: 1px solid red; */
+    flex-wrap: wrap;
+}
+
+header nav ul li a {
+    color: var(--gray);
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    transition: all ease 0.5s;
+    display: inline-block;
+    padding: 5px;
+    /* border: 1px solid red; */
+}
+
+header nav ul li a:hover {
+    transform: scale(1.1);
+}

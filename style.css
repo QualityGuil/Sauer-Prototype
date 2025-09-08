@@ -1,0 +1,26 @@
+/* Importando fonte roboto */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Importando o reset */
+@import url(./styles/reset.css);
+
+/* Importando o estilo header */
+@import url(./styles/header.css);
+
+/* Importando o estilo banner */
+@import url(./styles/banner.css);
+
+/* Importando o estilo colecoes */
+@import url(./styles/colecoes.css);
+
+body {
+    font-family: var(--main-font);
+}
+
+:root {
+
+    --main-font: "Montserrat", sans-serif;
+
+    --gray: #b0b0b0;
+
+}
