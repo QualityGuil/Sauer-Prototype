@@ -1,5 +1,4 @@
 # Sauer
----
 Este projeto é um exercício prático focado na criação de layouts responsivos utilizando Flexbox no CSS. A estrutura da página foi construída com as tags HTML aprendidas no Módulo 1 da Trilha de Engenharia, com o objetivo de demonstrar o domínio de conceitos essenciais de desenvolvimento web.
 
 ## Tecnologias Utilizadas
