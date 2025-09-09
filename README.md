@@ -3,19 +3,20 @@
 Este projeto é um exercício prático focado na criação de layouts responsivos utilizando Flexbox no CSS. A estrutura da página foi construída com as tags HTML aprendidas no Módulo 1 da Trilha de Engenharia, com o objetivo de demonstrar o domínio de conceitos essenciais de desenvolvimento web.
 
 ⚙️ Tecnologias Utilizadas
+
 HTML: Para a estrutura e marcação da página. As seguintes tags semânticas foram usadas para organizar o conteúdo:
 
-<header>: Estrutura o cabeçalho do site.
+- header: Estrutura o cabeçalho do site.
 
-<nav>: Contém a navegação principal.
+- nav: Contém a navegação principal.
 
-<section>: Define seções de conteúdo.
+- section: Define seções de conteúdo.
 
-<div>: Cria divisões para organização de elementos.
+- div: Cria divisões para organização de elementos.
 
-<figure>: Envolve imagens e suas legendas.
+- figure: Envolve imagens e suas legendas.
 
-<h1>, <h2>: Utilizados para títulos e subtítulos.
+- h1, h2: Utilizados para títulos e subtítulos.
 
 CSS: Para estilização e, principalmente, a criação de um layout flexível e adaptável com Flexbox.
 
